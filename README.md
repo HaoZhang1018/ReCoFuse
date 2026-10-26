@@ -83,6 +83,8 @@ Please place the data in the following path:
 
 Training requires both high-quality and low-quality  images for different modalities. Make sure that all modalities have the corresponding GT and LQ data properly organized.
 
+The training and test datasets used in this work are available at [Google Drive](https://drive.google.com/drive/folders/14i9y1YF9Y_Gu7ZeAw6eTY-R2sppdYUAh?usp=drive_link).
+
 For training the AutoEncoder and the two single-branch networks, you can refer to the training pipelines of [**OmniFuse**](https://github.com/HaoZhang1018/OmniFuse) and [**IRSDE**](https://github.com/Algolzw/image-restoration-sde) as examples.
 
 ### train Fusion model
